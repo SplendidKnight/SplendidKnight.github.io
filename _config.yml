@@ -1,25 +1,25 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+title: '林鸿辉的博客'
+description: '热爱IT，热爱音乐'
+keywords: '系统运维，网络工程，云计算'
+url: 'https://splendidknight.github.io/' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   首页: '/'
   标签: '/tags.html'
   时间线: '/timeline.html'
-  关于博主: '/about.html'
+  关于博主: 'https://weibo.com/u/2985296155/'
   友情链接: '/friendLink.html'
 
 # 博主
 author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+name: '林鸿辉'
+NickName: 'splendid'
+webtitle: '林鸿辉的博客'
+bio: '运维or搬砖'
 about: true
-aboutyou: 'your introduction'
+aboutyou: '热爱IT，热爱音乐'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
